@@ -21,10 +21,7 @@ The House Hunt Project is a web application that allows users to search for hous
 
 ## Setup Instructions
 
-1. Clone the repository:
-   ```sh
-   https://github.com/kilonzowambua/HouseHunt.git
-   ```
+1. Clone the repository
 2. Import the database:
    *  Create a MySQL database and import the provided SQL file (househunt.sql).
 *  Update the database connection settings in the PHP files as needed.
@@ -51,9 +48,4 @@ The House Hunt project is licensed under the [MIT License](https://github.com/gi
 * [jQuery](https://jquery.com/) - JavaScript library for enhanced interactivity.
 
 
-<!-- CONTACT -->
-## Contact
 
-If you have any questions or inquiries about the House Hunt project, please contact  Antony Kilonzo Wambua . Support Email:anatoli@devlan.co.ke.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
